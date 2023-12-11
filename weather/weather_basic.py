@@ -53,7 +53,7 @@ def get_weather(api_key, location):
         print(f"Error fetching data: {e}")
 
 console = Console()
-api_key = "1674297225ac4c9b2bbe57dea71dc016"  
+api_key = ""  # api key
 
 
 print("                                    ░██████╗██╗░░██╗██╗░░░██╗  ░██████╗███████╗███████╗██████╗░")
